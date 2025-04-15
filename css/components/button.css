@@ -1,0 +1,15 @@
+.btn-grow {
+  display: inline-block;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: bold;
+  background: linear-gradient(to right, rgba(35,25,66,1) 0%,rgba(108,99,255,1) 50%,rgba(129,210,199,1) 100%);
+  transition: 0.3s ease;
+}
+
+.btn-grow:hover {
+  background: linear-gradient(to right, rgba(129,210,199,1) 0%,rgba(108,99,255,1) 50%,rgba(35,25,66,1) 100%);
+  box-shadow: 0 0 4px rgba(0, 0, 0, .3);
+  transform: scale(1.1);
+}
