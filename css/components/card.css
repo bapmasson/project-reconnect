@@ -5,28 +5,6 @@
   flex-wrap: wrap;
 }
 
-/* .card img {
-  width: 150px;
-}
-
-.card p {
-  opacity: .5;
-}
-
-.card {
-  width: 200px;
-  border-radius: 3px;
-  box-shadow: 0 0 5px rgb(230,230,230);
-  text-align: center;
-  padding: 20px;
-  border: 1px solid rgb(230,230,230);
-  transition: 0.3s ease;
-}
-
-.card:hover {
-  transform: scale(1.1);
-} */
-
 .card{
   position: relative;
   width: 250px;
